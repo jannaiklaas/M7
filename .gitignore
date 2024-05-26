@@ -1,0 +1,5 @@
+*.csv
+/processed
+*.png
+*.npz
+__pycache__/
